@@ -1,0 +1,40 @@
+{
+  "name": "ICU-1.0-Bot",
+  "version": "1.0.0",
+  "description": "ICU 1.0 Bot is a next-generation multipurpose WhatsApp bot featuring advanced menus, pairing-code login, group tools, media handling, fun commands, and more.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "multi-device",
+    "ICU"
+  ],
+  "author": "Caleb Irunna <+2347079799769>",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^6.7.9",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@hapi/boom": "^10.0.1",
+    "@vitalets/google-translate-api": "^8.0.0",
+    "@whiskeysockets/baileys": "^6.7.7",
+    "aptoide-api": "^4.0.7",
+    "archiver": "latest",
+    "awesome-phonenumber": "^6.4.0",
+    "axios": "^1.6.7",
+    "baileys-x": "latest",
+    "cfonts": "^3.2.0",
+    "chalk": "^4.1.2",
+    "check-disk-space": "^3.3.1",
+    "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1"
+    // (dependencies continue from Anita’s full list…)
+  }
+}
