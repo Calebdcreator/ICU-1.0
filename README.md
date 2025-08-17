@@ -22,3 +22,9 @@ It comes with **powerful features** like group management, media tools, pairing-
 ```bash
 git clone https://github.com/calebdcreator/ICU-1.0-Bot.git
 cd ICU-1.0-Bot
+
+### 2. Install Dependecies
+npm install
+
+### 3. Start Bot
+npm start 
